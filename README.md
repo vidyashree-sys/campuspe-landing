@@ -1,7 +1,7 @@
 # CampusPe Landing Page
 
 A responsive CampusPe landing page built with Next.js, React, TypeScript, and CSS.
-
+live demo : https://campuspe-landing-liart.vercel.app/
 ## Run it on your computer
 
 1. Install Node.js (LTS) from [nodejs.org](https://nodejs.org/).
